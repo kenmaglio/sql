@@ -15,5 +15,4 @@ e.g. vMyView -- will have two scripts, one in the Create folder and one in the D
 
 There are some example scripts in the Tables and Views folder to get you started
 
-There is also a Script Creation folder which provides a windows command-line batch file, to build an Release.sql file containing the merged single script run - for all objects you create.
-
+There is also a Script Creation folder which provides a windows command-line batch file, to build an Release.sql file containing the merged single script run - for all objects you create. 
